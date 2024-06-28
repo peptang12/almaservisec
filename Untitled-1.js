@@ -1,0 +1,1 @@
+alert.apply("hello");

@@ -1,0 +1,12 @@
+img{
+    width: 200px;
+    border-radius: 100px;
+    
+    
+    float:top left;
+}
+p{
+    background-color: red;
+    color: black;
+
+}
